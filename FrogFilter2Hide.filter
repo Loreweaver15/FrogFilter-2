@@ -29,6 +29,33 @@ Show
 	MinimapIcon 0 Purple Star
 
 Show
+	BaseType "Fortified Hammer" "Tawhoan Greatclub" "Dreaming Quarterstaff" "Bolting Quarterstaff" "Striking Quarterstaff" "Razor Quarterstaff" "Flying Spear" "Akoyan Spear" "Maji Talisman" "Jade Talisman" "Fang Talisman" "Obliterator Bow" "Siege Crossbow" "Gemini Crossbow" "Visceral Quiver" "Volant Quiver" "Desert Buckler" "Tawhoan Tower Shield" "Golden Targe" "Blacksteel Crest Shield" "Tasalian Focus" "Sacred Focus" "Massive Mitts" "Polished Bracers" "Sirenscale Gloves" "Blacksteel Gauntlets" "Adherent Cuffs" "Secured Wraps" "Tasalian Greaves" "Drakeskin Boots" "Sekhema Sandals" "Blacksteel Sabatons" "Cryptic Leggings" "Daggerfoot Shoes" "Warlord Cuirass" "Ornate Plate" "Corsair Coat" "Flowing Raiment" "Vile Robe" "Feathered Raiment" "Dastard Armour" "Thane Mail" "Death Mail" "Conjurer Mantle" "Wolfskin Mantle" "Death Mantle" "Seastorm Mantle" "Falconer's Jacket" "Sleek Jacket" "Imperial Greathelm" "Freebooter Cap" "Ancestral Tiara" "Gladiatorial Helm" "Cryptic Crown" "Grinning Mask"
+	UnidentifiedItemTier = 5
+	SetFontSize 42
+	SetTextColor 195 195 195
+	SetBorderColor 195 195 195
+	SetBackgroundColor 255 0 255
+	PlayEffect Purple
+
+Show
+	Class Wand Staff
+	UnidentifiedItemTier = 5
+	SetFontSize 42
+	SetTextColor 195 195 195
+	SetBorderColor 195 195 195
+	SetBackgroundColor 255 0 255
+	PlayEffect Purple
+
+Show
+	Class Sceptre Amulet Ring Belt
+	UnidentifiedItemTier = 5
+	SetFontSize 42
+	SetTextColor 195 195 195
+	SetBorderColor 195 195 195
+	SetBackgroundColor 255 0 255
+	PlayEffect Purple
+
+Show
 	Class Wand Staff
 	Rarity Normal
 	ItemLevel >= 81
