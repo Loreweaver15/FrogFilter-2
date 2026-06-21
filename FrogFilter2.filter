@@ -1,0 +1,370 @@
+Show
+	Class Armour Gloves Helmet Shield Buckler Bow One Two Boots Wand Sceptre Spear Staff Quarterstaff Crossbow Talisman Focus
+	Quality >= 21
+	SetFontSize 42
+	SetTextColor 0 255 128
+	SetBorderColor 128 128 255
+	SetBackgroundColor 255 0 255
+	PlayEffect Purple
+	MinimapIcon 0 Purple Star
+
+Show
+	Class Armour Bow Two Staff Quarterstaff Crossbow Talisman
+	Sockets >= 3
+	SetFontSize 42
+	SetTextColor 0 255 128
+	SetBorderColor 128 128 255
+	SetBackgroundColor 255 0 255
+	PlayEffect Purple
+	MinimapIcon 0 Purple Star
+
+Show
+	Class Gloves Helmet Shield Buckler One Boots Wand Sceptre Spear Focus
+	Sockets >= 2
+	SetFontSize 42
+	SetTextColor 0 255 128
+	SetBorderColor 128 128 255
+	SetBackgroundColor 255 0 255
+	PlayEffect Purple
+	MinimapIcon 0 Purple Star
+
+Show
+	Class Wand Staff
+	Rarity Normal
+	ItemLevel >= 81
+	SetFontSize 42
+	SetTextColor 195 195 195
+	SetBorderColor 195 195 195
+	SetBackgroundColor 255 0 0
+	PlayEffect Purple
+
+Show
+	Class Wand Staff
+	Rarity Magic Rare
+	ItemLevel >= 81
+	SetFontSize 42
+	SetTextColor 0 0 0
+	SetBorderColor 255 255 0
+	SetBackgroundColor 255 255 0
+	PlayEffect Purple
+
+Show
+	Class Wand Staff
+	Rarity Rare
+	ItemLevel >= 75
+	SetFontSize 42
+	SetBorderColor 255 255 0
+
+Show
+	BaseType "Fortified Hammer" "Tawhoan Greatclub" "Dreaming Quarterstaff" "Bolting Quarterstaff" "Striking Quarterstaff" "Razor Quarterstaff" "Flying Spear" "Akoyan Spear" "Maji Talisman" "Jade Talisman" "Fang Talisman" "Obliterator Bow" "Siege Crossbow" "Gemini Crossbow" "Visceral Quiver" "Volant Quiver" "Desert Buckler" "Tawhoan Tower Shield" "Golden Targe" "Blacksteel Crest Shield" "Tasalian Focus" "Sacred Focus" "Massive Mitts" "Polished Bracers" "Sirenscale Gloves" "Blacksteel Gauntlets" "Adherent Cuffs" "Secured Wraps" "Tasalian Greaves" "Drakeskin Boots" "Sekhema Sandals" "Blacksteel Sabatons" "Cryptic Leggings" "Daggerfoot Shoes" "Warlord Cuirass" "Ornate Plate" "Corsair Coat" "Flowing Raiment" "Vile Robe" "Feathered Raiment" "Dastard Armour" "Thane Mail" "Death Mail" "Conjurer Mantle" "Wolfskin Mantle" "Death Mantle" "Seastorm Mantle" "Falconer's Jacket" "Sleek Jacket" "Imperial Greathelm" "Freebooter Cap" "Ancestral Tiara" "Gladiatorial Helm" "Cryptic Crown" "Grinning Mask"
+	Rarity Normal
+	ItemLevel >= 82
+	SetFontSize 42
+	SetTextColor 195 195 195
+	SetBorderColor 195 195 195
+	SetBackgroundColor 255 0 0
+	PlayEffect Purple
+
+Show
+	BaseType "Fortified Hammer" "Tawhoan Greatclub" "Dreaming Quarterstaff" "Bolting Quarterstaff" "Striking Quarterstaff" "Razor Quarterstaff" "Flying Spear" "Akoyan Spear" "Maji Talisman" "Jade Talisman" "Fang Talisman" "Obliterator Bow" "Siege Crossbow" "Gemini Crossbow" "Visceral Quiver" "Volant Quiver" "Desert Buckler" "Tawhoan Tower Shield" "Golden Targe" "Blacksteel Crest Shield" "Tasalian Focus" "Sacred Focus" "Massive Mitts" "Polished Bracers" "Sirenscale Gloves" "Blacksteel Gauntlets" "Adherent Cuffs" "Secured Wraps" "Tasalian Greaves" "Drakeskin Boots" "Sekhema Sandals" "Blacksteel Sabatons" "Cryptic Leggings" "Daggerfoot Shoes" "Warlord Cuirass" "Ornate Plate" "Corsair Coat" "Flowing Raiment" "Vile Robe" "Feathered Raiment" "Dastard Armour" "Thane Mail" "Death Mail" "Conjurer Mantle" "Wolfskin Mantle" "Death Mantle" "Seastorm Mantle" "Falconer's Jacket" "Sleek Jacket" "Imperial Greathelm" "Freebooter Cap" "Ancestral Tiara" "Gladiatorial Helm" "Cryptic Crown" "Grinning Mask"
+	Rarity Magic Rare
+	ItemLevel >= 82
+	SetFontSize 42
+	SetTextColor 0 0 0
+	SetBorderColor 255 255 0
+	SetBackgroundColor 255 255 0
+	PlayEffect Purple
+
+
+Show
+	BaseType "Fortified Hammer" "Tawhoan Greatclub" "Dreaming Quarterstaff" "Bolting Quarterstaff" "Striking Quarterstaff" "Razor Quarterstaff" "Flying Spear" "Akoyan Spear" "Maji Talisman" "Jade Talisman" "Fang Talisman" "Obliterator Bow" "Siege Crossbow" "Gemini Crossbow" "Visceral Quiver" "Volant Quiver" "Desert Buckler" "Tawhoan Tower Shield" "Golden Targe" "Blacksteel Crest Shield" "Tasalian Focus" "Sacred Focus" "Massive Mitts" "Polished Bracers" "Sirenscale Gloves" "Blacksteel Gauntlets" "Adherent Cuffs" "Secured Wraps" "Tasalian Greaves" "Drakeskin Boots" "Sekhema Sandals" "Blacksteel Sabatons" "Cryptic Leggings" "Daggerfoot Shoes" "Warlord Cuirass" "Ornate Plate" "Corsair Coat" "Flowing Raiment" "Vile Robe" "Feathered Raiment" "Dastard Armour" "Thane Mail" "Death Mail" "Conjurer Mantle" "Wolfskin Mantle" "Death Mantle" "Seastorm Mantle" "Falconer's Jacket" "Sleek Jacket" "Imperial Greathelm" "Freebooter Cap" "Ancestral Tiara" "Gladiatorial Helm" "Cryptic Crown" "Grinning Mask"
+	Rarity Rare
+	ItemLevel >= 75
+	SetFontSize 42
+	SetBorderColor 255 255 0
+
+Show
+	Class Sceptre Amulet Ring Belt
+	Rarity Normal
+	ItemLevel >= 82
+	SetFontSize 42
+	SetTextColor 195 195 195
+	SetBorderColor 195 195 195
+	SetBackgroundColor 255 0 0
+	PlayEffect Purple
+
+Show
+	Class Sceptre Amulet Ring Belt
+	Rarity Magic Rare
+	ItemLevel >= 82
+	SetFontSize 42
+	SetTextColor 0 0 0
+	SetBorderColor 255 255 0
+	SetBackgroundColor 255 255 0
+	PlayEffect Purple
+
+Show
+	Class Sceptre Amulet Ring Belt
+	Rarity Rare
+	ItemLevel >= 75
+	SetFontSize 42
+	SetBorderColor 255 255 0
+
+Show
+	BaseType "Utility Belt" "Heavy Belt"
+	Rarity Normal
+	SetFontSize 42
+	SetTextColor 195 195 195
+	SetBorderColor 195 195 195
+	PlayAlertSound 8 100
+	MinimapIcon 2 Red Circle
+
+
+Show
+	Class Belt
+	Rarity Normal
+	SetTextColor 195 195 195
+	SetBorderColor 195 195 195
+
+
+Show
+	Class Amulet Ring
+	Rarity Normal
+	SetTextColor 195 195 195
+	SetBorderColor 195 195 195
+
+Show
+	Rarity Unique
+	SetFontSize 42
+	SetBorderColor 175 96 37
+	PlayAlertSound 8 100
+	MinimapIcon 1 Brown Diamond
+	PlayEffect Brown
+
+Show
+	Class Tablet Waystone
+	SetTextColor 195 195 195
+	SetBorderColor 255 0 0
+	SetFontSize 42
+	PlayAlertSound 8 100
+	MinimapIcon 1 Red Triangle
+	PlayEffect Red
+
+Show
+	BaseType "Refined Reaver Catalyst" "Refined Sibilant Catalyst"
+	SetTextColor 255 0 155
+	SetBorderColor 255 0 155
+	SetBackgroundColor 255 255 255
+	SetFontSize 42
+	PlayAlertSound 8 100
+	MinimapIcon 0 Red Star
+	PlayEffect Red
+
+Show
+	BaseType "Catalyst"
+	SetTextColor 255 0 155
+	SetBorderColor 255 0 155
+	SetFontSize 42
+
+Show
+	BaseType "Breach Splinter"
+	SetTextColor 255 0 155
+	SetBackgroundColor 255 0 155
+
+Show
+	BaseType "Ancient Potent Liquid Contempt" "Potent Liquid Contempt" "Potent Liquid Ferocity"
+	SetTextColor 0 100 255
+	SetBorderColor 0 100 255
+	SetBackgroundColor 255 255 255
+	SetFontSize 42
+	PlayAlertSound 8 100
+	MinimapIcon 0 Red Star
+	PlayEffect Red
+
+Show
+	BaseType "Liquid" "Simulacrum Splinter"
+	SetTextColor 0 100 255
+	SetBorderColor 0 100 255
+	
+
+Show
+	BaseType "Aldur's Saga" "Perfect Flux" "Expedition Logbook" "Celestial Alloy" "Olroth's Crest"
+	SetTextColor 155 55 155
+	SetBorderColor 155 55 155
+	SetFontSize 42
+	SetBackgroundColor 255 255 255
+	PlayAlertSound 8 100
+	MinimapIcon 0 Red Star
+	PlayEffect Red
+
+Show
+	BaseType "Flux" "Saga" "Alloy" "Starlit Ore" "Exceptional Verisium" "Vorana's Crest" "Medved's Crest" "Uhtred's Crest"
+	SetTextColor 155 55 155
+	SetBorderColor 155 55 155
+	SetFontSize 42
+
+Show
+	BaseType "Verisium"
+	SetTextColor 155 55 155
+	SetBorderColor 155 55 155
+
+Show
+	Class Fragment
+	SetTextColor 255 0 0
+	SetBorderColor 255 0 0
+	SetBackgroundColor 255 255 255
+	SetFontSize 42
+	PlayAlertSound 8 100
+	MinimapIcon 0 Red Star
+	PlayEffect Red
+
+Show
+	BaseType "Omen of Sinistral Annulment" "Omen of Light" "Omen of Chance" "Omen of Sinistral Erasure" "Omen of Dextral Erasure" "Omen of Whittling" "Omen of Dextral Annulment"
+	SetBorderColor 255 0 255
+	SetTextColor 255 0 255
+	SetBackgroundColor 255 255 255
+	SetFontSize 42
+	PlayAlertSound 8 100
+	MinimapIcon 0 Red Star
+	PlayEffect Red
+
+Show
+	Class Omen
+	SetBorderColor 255 0 255
+	SetTextColor 255 0 255
+
+Show
+	BaseType "Kurgal's Gaze" "Ancient Jawbone" "Altered Collarbone" "Ancient Collarbone" "Preserved Cranium" "Ancient Rib" "Tecrod's Gaze" "Ulaman's Gaze"
+	SetTextColor 0 255 0
+	SetBorderColor 0 255 0
+	SetFontSize 42
+	SetBackgroundColor 255 255 255
+	PlayAlertSound 8 100
+	MinimapIcon 0 Red Star
+	PlayEffect Red
+
+Show
+	BaseType "Amanamu's Gaze" "Preserved Collarbone" "Gnawed Jawbone" "Gnawed Collarbone" "Gnawed Rib" "Preserved Jawbone" "Preserved Rib"
+	SetTextColor 0 255 0
+	SetBorderColor 0 255 0
+
+Show
+	BaseType "Essence"
+	SetBorderColor 255 128 0
+	SetTextColor 255 128 0
+	SetFontSize 42
+	PlayEffect Blue
+	MinimapIcon 2 Blue Circle
+
+Show
+	BaseType "Raven-Touched Shard" "Jiquani's Thesis" "Carved Majesty" "Emergent Possibility" "Guatelitzi's Thesis" "Quipolatl's Thesis" "Soul Core of Quipolatl" "Soul Core of Azcapa" "Carved Cunning" "Opiloti's Soul Core of Assault" "Emergent Vigour" "Soul Core of Cholotl" "Soul Core of Zalatl" "Xopec's Soul Core of Power" "Fox Idol" "Aldur's Legacy" "Astrid's Creativity" "Perfect Rebirth Rune" "Serle's Triumph" "Cadigan's Epiphany" "Perfect Charging Rune" "Perfect Ward Rune" "Perfect Vision Rune" "Perfect Adept Rune" "Perfect Body Rune" "Perfect Resolve Rune" "Perfect Stone Rune" "Perfect Desert Rune" "Perfect Glacial Rune" "Perfect Storm Rune" "Perfect Robust Rune" "Perfect Mind Rune" "Perfect Inspiration Rune" "Perfect Iron Rune" "Greater Rune of Leadership" "Kolr's Hunt"
+	SetBackgroundColor 255 255 255
+	SetBorderColor 200 100 255
+	SetTextColor 200 100 255
+	SetFontSize 42
+	PlayEffect Blue
+	MinimapIcon 0 Red Star
+
+Show
+	Class Augment
+	SetBorderColor 200 100 255
+	SetTextColor 200 100 255
+
+Show
+	BaseType "Mirror of Kalandra" "Hinekora's Lock" "Fracturing Orb" "Perfect Chaos Orb" "Perfect Exalted Orb" "Architect's Orb" "Vaal Cultivation Orb" "Crystallised Corruption" "Vaal Catalysing Infuser" "Core Destabiliser" "Divine Orb" "Orb of Annulment" "Orb of Extraction" "Perfect Jeweller's Orb"
+	SetTextColor 105 25 25
+	SetBorderColor 255 0 0
+	SetFontSize 42
+	SetBackgroundColor 255 255 255
+	PlayAlertSound 8 100
+	MinimapIcon 0 Red Star
+	PlayEffect Red
+
+Show
+	BaseType "Vaal Armourer's Infuser" "Greater Chaos Orb" "Vaal Blacksmith's Infuser" "Ancient Infuser" "Cryptic Key" "Chaos Orb" "Perfect Regal Orb" "Perfect Orb of Augmentation" "Orb of Chance" "Perfect Orb of Transmutation" "Greater Exalted Orb" "Vaal Orb" "Greater Regal Orb" "Exalted Orb" "Greater Jeweller's Orb" "Vaal Arcanist's Infuser"
+	SetBorderColor 255 25 0
+	SetTextColor 155 255 0
+	SetFontSize 42
+	PlayEffect Green
+	MinimapIcon 2 Red Circle
+
+Show
+	BaseType "Chance Shard" "Vaal Siphoner"
+	SetBorderColor 255 25 0
+	SetTextColor 155 255 0
+
+Show
+	BaseType "Armourer's Scrap" "Blacksmith's Whetstone" "Arcanist's Etcher" "Gemcutter's Prism" "Glassblower's Bauble" "Artificer's Orb"
+	SetFontSize 42
+	SetTextColor 0 255 128
+	SetBorderColor 128 128 255
+
+Show
+	BaseType "Artificer's Shard"
+	SetTextColor 0 255 128
+	SetBorderColor 128 128 255
+
+Show
+	Class Currency
+	BaseType "Gold"
+	SetTextColor 200 200 0
+	SetBorderColor 200 200 0
+
+Show
+	BaseType "Orb of Alchemy" "Regal Orb"
+	SetTextColor 255 100 0
+	SetBorderColor 100 0 200
+	SetFontSize 42
+Show
+	Class Currency
+	SetTextColor 255 100 0
+	SetBorderColor 100 0 200
+
+Show
+	Class Gem
+	GemLevel >= 20
+	SetTextColor 105 25 25
+	SetBorderColor 255 0 0
+	SetBackgroundColor 0 185 0
+	SetFontSize 42
+	PlayEffect Green
+	MinimapIcon 0 Green Star
+
+Show
+	Class Gem
+	Quality > 20
+	SetTextColor 105 25 25
+	SetBorderColor 255 0 0
+	SetBackgroundColor 0 185 0
+	SetFontSize 42
+	PlayEffect Green
+	MinimapIcon 1 Green Star
+
+Show
+	BaseType "Uncut Spirit Gem (Level 20)" "Uncut Skill Gem (Level 20)"
+	SetBorderColor 0 255 128
+	SetTextColor 0 255 128
+	SetBackgroundColor 255 255 255
+	SetFontSize 42
+	PlayEffect Green
+	MinimapIcon 0 Green Star
+
+Show
+	BaseType "Garukhan's Resolve" "Atziri's Communion" "Uul-Netol's Embrace" "Dialla's Desire" "Rakiata's Flow" "Rigwald's Ferocity" "Uhtred's Exodus" "Her Declaration" "Seraph's Heart" "Tul's Stillness" "Esh's Radiance" "Uhtred's Augury" "Vorana's Siege" "Xoph's Pyre" "Uhtred's Omen" "Olroth's Conviction" "Breachlord's Rift" "Ixchel's Torment" "Atalui's Bloodletting" "Catha's Brilliance" "Amanamu's Tithe" "Breachlord's Amalgam" "Arbiter's Ignition" "Khatal's Rejuvenation"
+	SetBorderColor 0 255 128
+	SetTextColor 0 255 128
+	SetBackgroundColor 255 255 255
+	SetFontSize 42
+	PlayEffect Green
+	MinimapIcon 0 Green Star
+
+Show
+	BaseType "Uncut Spirit Gem (Level 19)" "Uncut Skill Gem (Level 19)"
+	SetBorderColor 0 255 128
+	SetTextColor 0 255 128
+	SetFontSize 42
+
+Show
+	Class Gem
+	SetBorderColor 0 255 128
+	SetTextColor 0 255 128
