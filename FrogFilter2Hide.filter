@@ -104,7 +104,6 @@ Show
 Show
 	Class Sceptre Amulet Ring Belt
 	Rarity Rare
-	ItemLevel >= 75
 	SetFontSize 42
 	SetBorderColor 255 255 0
 

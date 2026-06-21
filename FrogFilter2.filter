@@ -51,7 +51,6 @@ Show
 Show
 	Class Wand Staff
 	Rarity Rare
-	ItemLevel >= 75
 	SetFontSize 42
 	SetBorderColor 255 255 0
 
