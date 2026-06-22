@@ -135,7 +135,7 @@ Show
 	SetBorderColor 255 255 0
 
 Show
-	Class Armour Gloves Helmet Shield Buckler Bow One Two Boots Wand Sceptre Spear Staff Quarterstaff Crossbow Talisman Focus
+	Class Armour Gloves Helmet Shield Buckler Bow One Two Boots Wand Sceptre Spear Staff Quarterstaff Crossbow Talisman Focus Flask
 	Quality >= 1
 	SetBorderColor 128 128 255
 
