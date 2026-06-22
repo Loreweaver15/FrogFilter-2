@@ -1,4 +1,10 @@
 Show
+	Class Jewel
+	Rarity Normal Magic Rare
+	SetFontSize 42
+	SetBorderColor 255 0 100
+
+Show
 	Class Armour Gloves Helmet Shield Buckler Bow One Two Boots Wand Sceptre Spear Staff Quarterstaff Crossbow Talisman Focus
 	Quality >= 21
 	SetFontSize 42
