@@ -158,6 +158,20 @@ Show
 	SetBorderColor 195 195 195
 
 Show
+	BaseType "Relic"
+	ItemLevel >= 80
+	SetFontSize 42
+	SetTextColor 255 255 255
+	SetBackgroundColor 0 0 255
+	SetBorderColor 0 0 255
+
+Show
+	BaseType "Relic"
+	SetFontSize 42
+	SetTextColor 100 100 255
+	SetBorderColor 100 100 255
+
+Show
 	Rarity Unique
 	SetFontSize 42
 	SetBorderColor 175 96 37
