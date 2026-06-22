@@ -135,6 +135,16 @@ Show
 	SetBorderColor 255 255 0
 
 Show
+	Class Armour Gloves Helmet Shield Buckler Bow One Two Boots Wand Sceptre Spear Staff Quarterstaff Crossbow Talisman Focus
+	Quality >= 1
+	SetBorderColor 128 128 255
+
+Show
+	Class Armour Gloves Helmet Shield Buckler Bow One Two Boots Wand Sceptre Spear Staff Quarterstaff Crossbow Talisman Focus
+	Sockets >= 1
+	SetBorderColor 128 128 255
+
+Show
 	BaseType "Utility Belt" "Heavy Belt"
 	Rarity Normal
 	SetFontSize 42
@@ -181,6 +191,15 @@ Show
 
 Show
 	Class Tablet Waystone
+	SetTextColor 195 195 195
+	SetBorderColor 255 0 0
+	SetFontSize 42
+	PlayAlertSound 8 100
+	MinimapIcon 1 Red Triangle
+	PlayEffect Red
+
+Show
+	BaseType "Djinn Barya" "Inscribed Ultimatum"
 	SetTextColor 195 195 195
 	SetBorderColor 255 0 0
 	SetFontSize 42
