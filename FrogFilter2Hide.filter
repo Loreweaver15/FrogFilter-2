@@ -185,7 +185,7 @@ Show
 	PlayEffect Red
 
 Show
-	BaseType "Catalyst"
+	BaseType "Catalyst" "Wombgift"
 	SetTextColor 255 0 155
 	SetBorderColor 255 0 155
 	SetFontSize 42
@@ -193,7 +193,7 @@ Show
 Show
 	BaseType "Breach Splinter"
 	SetTextColor 255 0 155
-	SetBackgroundColor 255 0 155
+	SetBorderColor 255 0 155
 
 Show
 	BaseType "Ancient Potent Liquid Contempt" "Potent Liquid Contempt" "Potent Liquid Ferocity"
