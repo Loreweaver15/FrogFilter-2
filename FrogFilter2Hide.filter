@@ -62,7 +62,7 @@ Show
 	PlayEffect Purple
 
 Show
-	Class Wand Staff
+	Class Wand
 	Rarity Normal
 	ItemLevel >= 81
 	SetFontSize 42
@@ -72,7 +72,27 @@ Show
 	PlayEffect Purple
 
 Show
-	Class Wand Staff
+	BaseType "Ashen Staff" "Voltaic Staff" "Gelid Staff" "Pyrophyte Staff" "Chiming Staff" "Reaping Staff" "Roaring Staff" "Paralysing Staff" "Sanctified Staff"
+	Rarity Normal
+	ItemLevel >= 81
+	SetFontSize 42
+	SetTextColor 195 195 195
+	SetBorderColor 195 195 195
+	SetBackgroundColor 255 0 0
+	PlayEffect Purple
+
+Show
+	Class Wand
+	Rarity Magic Rare
+	ItemLevel >= 81
+	SetFontSize 42
+	SetTextColor 0 0 0
+	SetBorderColor 255 255 0
+	SetBackgroundColor 255 255 0
+	PlayEffect Purple
+
+Show
+	BaseType "Ashen Staff" "Voltaic Staff" "Gelid Staff" "Pyrophyte Staff" "Chiming Staff" "Reaping Staff" "Roaring Staff" "Paralysing Staff" "Sanctified Staff"
 	Rarity Magic Rare
 	ItemLevel >= 81
 	SetFontSize 42
