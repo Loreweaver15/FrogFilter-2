@@ -161,16 +161,6 @@ Show
 	SetBorderColor 255 255 0
 
 Show
-	Class Armour Gloves Helmet Shield Buckler Bow One Two Boots Wand Sceptre Spear Staff Quarterstaff Crossbow Talisman Focus Flask
-	Quality >= 1
-	SetBorderColor 128 128 255
-
-Show
-	Class Armour Gloves Helmet Shield Buckler Bow One Two Boots Wand Sceptre Spear Staff Quarterstaff Crossbow Talisman Focus
-	Sockets >= 1
-	SetBorderColor 128 128 255
-
-Show
 	BaseType "Utility Belt" "Heavy Belt"
 	Rarity Normal
 	SetFontSize 42
@@ -216,6 +206,16 @@ Show
 	PlayEffect Brown
 
 Show
+	Class Armour Gloves Helmet Shield Buckler Bow One Two Boots Wand Sceptre Spear Staff Quarterstaff Crossbow Talisman Focus Flask
+	Quality >= 1
+	SetBorderColor 128 128 255
+
+Show
+	Class Armour Gloves Helmet Shield Buckler Bow One Two Boots Wand Sceptre Spear Staff Quarterstaff Crossbow Talisman Focus
+	Sockets >= 1
+	SetBorderColor 128 128 255
+
+Show
 	Class Tablet Waystone
 	SetTextColor 195 195 195
 	SetBorderColor 255 0 0
@@ -225,7 +225,7 @@ Show
 	PlayEffect Red
 
 Show
-	BaseType "Djinn Barya" "Inscribed Ultimatum"
+	BaseType "Djinn Barya" "Inscribed Ultimatum" "Twilight Reliquary Key"
 	SetTextColor 195 195 195
 	SetBorderColor 255 0 0
 	SetFontSize 42
@@ -293,6 +293,16 @@ Show
 
 Show
 	Class Fragment
+	SetTextColor 255 0 0
+	SetBorderColor 255 0 0
+	SetBackgroundColor 255 255 255
+	SetFontSize 42
+	PlayAlertSound 8 100
+	MinimapIcon 0 Red Star
+	PlayEffect Red
+
+Show
+	BaseType "Reliquary Key"
 	SetTextColor 255 0 0
 	SetBorderColor 255 0 0
 	SetBackgroundColor 255 255 255
