@@ -1,4 +1,10 @@
 Show
+	Class Quest
+	SetFontSize 42
+	SetTextColor 0 255 0
+	SetBorderColor 0 255 0
+
+Show
 	Class Jewel
 	Rarity Normal Magic Rare
 	SetFontSize 42
@@ -343,8 +349,8 @@ Show
 
 Show
 	BaseType "Essence"
-	SetBorderColor 255 128 0
-	SetTextColor 255 128 0
+	SetBorderColor 255 56 0
+	SetTextColor 255 56 0
 	SetFontSize 42
 	PlayEffect Blue
 	MinimapIcon 2 Blue Circle
