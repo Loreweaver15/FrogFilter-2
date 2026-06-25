@@ -380,7 +380,7 @@ Show
 	PlayEffect Red
 
 Show
-	BaseType "Vaal Armourer's Infuser" "Greater Chaos Orb" "Vaal Blacksmith's Infuser" "Ancient Infuser" "Cryptic Key" "Chaos Orb" "Perfect Regal Orb" "Perfect Orb of Augmentation" "Orb of Chance" "Perfect Orb of Transmutation" "Greater Exalted Orb" "Vaal Orb" "Greater Regal Orb" "Exalted Orb" "Greater Jeweller's Orb" "Vaal Arcanist's Infuser"
+	BaseType "Vaal Armourer's Infuser" "Greater Chaos Orb" "Vaal Blacksmith's Infuser" "Ancient Infuser" "Cryptic Key" "Chaos Orb" "Perfect Regal Orb" "Perfect Orb of Augmentation" "Orb of Chance" "Perfect Orb of Transmutation" "Greater Exalted Orb" "Vaal Orb" "Greater Regal Orb" "Exalted Orb" "Greater Jeweller's Orb" "Vaal Arcanist's Infuser" "Orb of Sacrifice"
 	SetBorderColor 255 25 0
 	SetTextColor 155 255 0
 	SetFontSize 42
