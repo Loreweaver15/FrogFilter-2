@@ -11,7 +11,7 @@ Show
 	SetBorderColor 255 0 100
 
 Show
-	Class Armour Gloves Helmet Shield Buckler Bow One Two Boots Wand Sceptre Spear Staff Quarterstaff Crossbow Talisman Focus
+	Class Armour Gloves Helmet Shield Buckler Bow One Two Boots Wand Sceptre Spear Staff Quarterstaff Crossbow Talisman Focus Flask Charm
 	Quality >= 21
 	SetFontSize 42
 	SetTextColor 0 255 128
@@ -212,7 +212,7 @@ Show
 	PlayEffect Brown
 
 Show
-	Class Armour Gloves Helmet Shield Buckler Bow One Two Boots Wand Sceptre Spear Staff Quarterstaff Crossbow Talisman Focus Flask
+	Class Armour Gloves Helmet Shield Buckler Bow One Two Boots Wand Sceptre Spear Staff Quarterstaff Crossbow Talisman Focus Flask Charm
 	Quality >= 1
 	SetBorderColor 128 128 255
 
@@ -298,7 +298,7 @@ Show
 	SetBorderColor 155 55 155
 
 Show
-	Class Fragment
+	BaseType "Simulacrum" "Raven's Reflection" "Breachstone" "Breachlord Sac" "Kulemak's Invitation" "Cowardly Fate" "Deadly Fate" "Victorious Fate" "Crisis Fragment" "Origin" "Call of the Shadows" "the King" "Triskelion"
 	SetTextColor 255 0 0
 	SetBorderColor 255 0 0
 	SetBackgroundColor 255 255 255
