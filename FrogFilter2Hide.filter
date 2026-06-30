@@ -272,9 +272,8 @@ Show
 
 Show
 	BaseType "Liquid" "Simulacrum Splinter"
-	SetTextColor 0 100 255
-	SetBorderColor 0 100 255
-	
+	SetTextColor 0 200 155
+	SetBorderColor 0 200 155	
 
 Show
 	BaseType "Aldur's Saga" "Perfect Flux" "Expedition Logbook" "Celestial Alloy" "Olroth's Crest"
